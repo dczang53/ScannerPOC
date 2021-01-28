@@ -1,0 +1,20 @@
+﻿  FrameGrabber.cpp
+E:\Projects\LaraLeeMedical\SandTimages\FrameGrabber.cpp(24,1): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(133): message : see declaration of 'strcpy'
+E:\Projects\LaraLeeMedical\SandTimages\FrameGrabber.cpp(155,1): warning C4996: 'localtime': This function or variable may be unsafe. Consider using localtime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\time.h(506): message : see declaration of 'localtime'
+E:\Projects\LaraLeeMedical\SandTimages\FrameGrabber.cpp(157,1): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(90): message : see declaration of 'strcat'
+E:\Projects\LaraLeeMedical\SandTimages\FrameGrabber.cpp(158,1): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(90): message : see declaration of 'strcat'
+E:\Projects\LaraLeeMedical\SandTimages\FrameGrabber.cpp(159,1): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  frmSandTimages.cpp
+  MotorController.cpp
+  Scanner.cpp
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(90): message : see declaration of 'strcat'
+E:\Projects\LaraLeeMedical\SandTimages\Scanner.cpp(121,22): warning C4244: '=': conversion from 'double' to 'short', possible loss of data
+  Generating Code...
+E:\Projects\LaraLeeMedical\SandTimages\Scanner.cpp(122,22): warning C4244: '=': conversion from 'double' to 'short', possible loss of data
+  .NETFramework,Version=v4.7.2.AssemblyAttributes.cpp
+  FrameGrabber.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  SandTimages.vcxproj -> E:\Projects\LaraLeeMedical\SandTimages\Debug\SandTimages.exe
